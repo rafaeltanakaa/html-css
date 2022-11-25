@@ -41,7 +41,7 @@ li{
     background-color: black;
 }
 span#burguer:hover{
-    background-color: white; color: black;
+    background-color: rgb(175, 175, 175); color: black;
 }
 span#burguer{
     width: 100vw;
